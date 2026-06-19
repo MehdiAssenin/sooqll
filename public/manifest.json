@@ -1,0 +1,22 @@
+{
+  "name": "L'Élégance - Luxury Fragrances & Accessories",
+  "short_name": "L'Élégance",
+  "description": "Luxury perfumes and designer handbags e-commerce store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0F281F",
+  "theme_color": "#0F281F",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/hero-bottle.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/images/hero-bottle.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
